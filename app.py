@@ -26,8 +26,10 @@ from satisfaction_analysis import (  # noqa: E402
 )
 from train_and_export import predict_with_artifact  # noqa: E402
 
-DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
-MODEL_ARTIFACTS_PATH = os.path.join(os.path.dirname(__file__), "model_artifacts.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data")
+MODEL_ARTIFACTS_PATH = os.path.join(BASE_DIR, "model_artifacts.pkl")
+
 
 st.set_page_config(page_title="Health Sector Performance & Gap Analysis Dashboard",
                     page_icon="🩺", layout="wide")
@@ -50,14 +52,91 @@ st.markdown("""
 
 
 # ---------------------------------------------------------------------------
-# Data loading (cached)
+# Data loading
 # ---------------------------------------------------------------------------
+# The app first looks for the CSV files in:
+#   1. data/
+#   2. the repository root
+# If a CSV is not found, the user can upload it from the Streamlit sidebar.
+# This prevents FileNotFoundError on Streamlit Cloud.
+
+def find_data_file(filename):
+    possible_paths = [
+        os.path.join(DATA_DIR, filename),
+        os.path.join(BASE_DIR, filename),
+    ]
+
+    for path in possible_paths:
+        if os.path.isfile(path):
+            return path
+
+    return None
+
+
+st.sidebar.markdown("### Data Files")
+
+uploaded_kpi = st.sidebar.file_uploader(
+    "Upload KPI CSV",
+    type=["csv"],
+    help="Upload ethiopia_health_kpis_monthly.csv if it is not available in GitHub."
+)
+
+uploaded_survey = st.sidebar.file_uploader(
+    "Upload Client Satisfaction CSV",
+    type=["csv"],
+    help="Upload client_satisfaction_survey.csv if it is not available in GitHub."
+)
+
+
 @st.cache_data
-def load_data():
-    kpi_df = pd.read_csv(os.path.join(DATA_DIR, "ethiopia_health_kpis_monthly.csv"))
-    survey_df = pd.read_csv(os.path.join(DATA_DIR, "client_satisfaction_survey.csv"))
+def load_data(kpi_bytes=None, survey_bytes=None):
+
+    kpi_filename = "ethiopia_health_kpis_monthly.csv"
+    survey_filename = "client_satisfaction_survey.csv"
+
+    # Use uploaded KPI data when provided.
+    if kpi_bytes is not None:
+        kpi_df = pd.read_csv(kpi_bytes)
+    else:
+        kpi_path = find_data_file(kpi_filename)
+
+        if kpi_path is None:
+            st.error(
+                f"❌ KPI dataset not found: {kpi_filename}"
+            )
+            st.info(
+                "Please upload the KPI CSV using the sidebar, "
+                "or add the file to the data/ folder in GitHub."
+            )
+            st.stop()
+
+        kpi_df = pd.read_csv(kpi_path)
+
+    # Use uploaded survey data when provided.
+    if survey_bytes is not None:
+        survey_df = pd.read_csv(survey_bytes)
+    else:
+        survey_path = find_data_file(survey_filename)
+
+        if survey_path is None:
+            st.error(
+                f"❌ Survey dataset not found: {survey_filename}"
+            )
+            st.info(
+                "Please upload the survey CSV using the sidebar, "
+                "or add the file to the data/ folder in GitHub."
+            )
+            st.stop()
+
+        survey_df = pd.read_csv(survey_path)
+
     return kpi_df, survey_df
 
+
+# Convert uploaded files to bytes before passing them to the cached function.
+# This makes the Streamlit cache stable and avoids problems with UploadedFile objects.
+kpi_bytes = uploaded_kpi.getvalue() if uploaded_kpi is not None else None
+survey_bytes = uploaded_survey.getvalue() if uploaded_survey is not None else None
 
 @st.cache_resource
 def load_model_artifacts():
@@ -117,7 +196,7 @@ def run_driver_analysis(survey_df, kpi_df, _bundle):
     return result, corr, insight
 
 
-kpi_df, survey_df = load_data()
+kpi_df, survey_df = load_data(kpi_bytes, survey_bytes)
 model_bundle = load_model_artifacts()
 forecast_df = run_forecasts(kpi_df, model_bundle)
 gap_report = run_gap_report(kpi_df)
