@@ -1,0 +1,649 @@
+Year,Month_Num,Month_Name,Department,KPI_Category,Indicator,Unit,Direction,Target,Actual
+2023,1,January,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,83.43
+2023,2,February,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,79.58
+2023,3,March,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,78.78
+2023,4,April,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,73.77
+2023,5,May,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,75.2
+2023,6,June,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,76.84
+2023,7,July,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,79.68
+2023,8,August,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,76.64
+2023,9,September,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,80.01
+2023,10,October,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,77.24
+2023,11,November,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,76.65
+2023,12,December,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,77.93
+2024,1,January,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,66.74
+2024,2,February,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,66.81
+2024,3,March,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,64.46
+2024,4,April,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,60.68
+2024,5,May,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,65.72
+2024,6,June,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,70.73
+2024,7,July,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,68.26
+2024,8,August,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,70.65
+2024,9,September,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,73.94
+2024,10,October,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,74.45
+2024,11,November,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,68.92
+2024,12,December,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,71.72
+2025,1,January,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,65.52
+2025,2,February,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,60.39
+2025,3,March,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,59.41
+2025,4,April,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,55.52
+2025,5,May,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,57.16
+2025,6,June,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,59.3
+2025,7,July,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,63.86
+2025,8,August,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,67.64
+2025,9,September,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,58.15
+2025,10,October,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,63.57
+2025,11,November,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,57.93
+2025,12,December,Delivery Ward,Resource Availability,Delivery_Bed_Availability_Rate_Pct,%,higher,90.0,61.02
+2023,1,January,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,81.64
+2023,2,February,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,79.75
+2023,3,March,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,75.43
+2023,4,April,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,78.72
+2023,5,May,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,76.8
+2023,6,June,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,78.39
+2023,7,July,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,82.74
+2023,8,August,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,81.28
+2023,9,September,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,78.89
+2023,10,October,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,78.54
+2023,11,November,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,80.92
+2023,12,December,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,78.71
+2024,1,January,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,80.09
+2024,2,February,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,82.34
+2024,3,March,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,84.31
+2024,4,April,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,83.5
+2024,5,May,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,77.99
+2024,6,June,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,83.47
+2024,7,July,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,83.29
+2024,8,August,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,84.26
+2024,9,September,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,86.95
+2024,10,October,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,79.87
+2024,11,November,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,83.1
+2024,12,December,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,85.75
+2025,1,January,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,81.69
+2025,2,February,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,88.09
+2025,3,March,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,86.17
+2025,4,April,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.41
+2025,5,May,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,84.86
+2025,6,June,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.91
+2025,7,July,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,88.71
+2025,8,August,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.32
+2025,9,September,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.61
+2025,10,October,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.97
+2025,11,November,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,85.99
+2025,12,December,Delivery Ward,Maternal & Child Health,Institutional_Delivery_Rate_Pct,%,higher,90.0,87.7
+2023,1,January,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,84.73
+2023,2,February,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,85.89
+2023,3,March,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,87.2
+2023,4,April,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,83.69
+2023,5,May,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,85.57
+2023,6,June,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.67
+2023,7,July,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,84.86
+2023,8,August,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,84.92
+2023,9,September,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,86.96
+2023,10,October,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.32
+2023,11,November,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,87.02
+2023,12,December,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,89.59
+2024,1,January,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.94
+2024,2,February,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,89.12
+2024,3,March,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.8
+2024,4,April,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,92.19
+2024,5,May,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,87.83
+2024,6,June,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,84.79
+2024,7,July,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,91.49
+2024,8,August,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,87.98
+2024,9,September,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,89.19
+2024,10,October,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,91.56
+2024,11,November,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,86.52
+2024,12,December,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,87.35
+2025,1,January,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,86.92
+2025,2,February,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.57
+2025,3,March,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,90.99
+2025,4,April,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,91.34
+2025,5,May,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,91.1
+2025,6,June,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,88.26
+2025,7,July,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,86.84
+2025,8,August,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,91.3
+2025,9,September,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,90.55
+2025,10,October,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,92.43
+2025,11,November,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,93.06
+2025,12,December,Delivery Ward,Maternal & Child Health,Skilled_Birth_Attendance_Rate_Pct,%,higher,95.0,92.25
+2023,1,January,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,17.55
+2023,2,February,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,15.53
+2023,3,March,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,19.15
+2023,4,April,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,19.89
+2023,5,May,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,15.09
+2023,6,June,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,16.66
+2023,7,July,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,19.63
+2023,8,August,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,19.23
+2023,9,September,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,20.17
+2023,10,October,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,19.06
+2023,11,November,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,22.58
+2023,12,December,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,22.8
+2024,1,January,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,21.92
+2024,2,February,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,24.23
+2024,3,March,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,23.44
+2024,4,April,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,21.45
+2024,5,May,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,24.06
+2024,6,June,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,22.07
+2024,7,July,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,25.78
+2024,8,August,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,24.51
+2024,9,September,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,24.67
+2024,10,October,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,24.17
+2024,11,November,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.0
+2024,12,December,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,25.92
+2025,1,January,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,25.83
+2025,2,February,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,26.37
+2025,3,March,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.36
+2025,4,April,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.46
+2025,5,May,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.94
+2025,6,June,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,29.38
+2025,7,July,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,32.85
+2025,8,August,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.67
+2025,9,September,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.88
+2025,10,October,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,28.74
+2025,11,November,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,31.71
+2025,12,December,Emergency,Service Efficiency,Avg_Triage_to_Treatment_Time_Min,minutes,lower,15.0,33.03
+2023,1,January,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,78.78
+2023,2,February,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,80.94
+2023,3,March,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,77.43
+2023,4,April,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,78.02
+2023,5,May,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,73.84
+2023,6,June,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,76.55
+2023,7,July,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,79.39
+2023,8,August,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,77.32
+2023,9,September,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,80.66
+2023,10,October,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,76.48
+2023,11,November,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,76.19
+2023,12,December,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,73.86
+2024,1,January,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,68.21
+2024,2,February,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,71.3
+2024,3,March,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,65.69
+2024,4,April,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,66.04
+2024,5,May,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,67.42
+2024,6,June,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,67.96
+2024,7,July,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,69.93
+2024,8,August,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,68.46
+2024,9,September,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,67.98
+2024,10,October,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,68.92
+2024,11,November,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,61.96
+2024,12,December,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,60.54
+2025,1,January,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,58.17
+2025,2,February,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,56.51
+2025,3,March,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,59.14
+2025,4,April,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,53.23
+2025,5,May,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,54.81
+2025,6,June,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,61.35
+2025,7,July,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,56.75
+2025,8,August,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,61.78
+2025,9,September,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,56.6
+2025,10,October,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,58.88
+2025,11,November,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,54.94
+2025,12,December,Emergency,Resource Availability,Emergency_Bed_Availability_Rate_Pct,%,higher,90.0,54.81
+2023,1,January,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.08
+2023,2,February,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,0.98
+2023,3,March,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,0.99
+2023,4,April,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.21
+2023,5,May,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.23
+2023,6,June,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.21
+2023,7,July,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.03
+2023,8,August,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.17
+2023,9,September,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.16
+2023,10,October,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.18
+2023,11,November,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.29
+2023,12,December,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.2
+2024,1,January,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.27
+2024,2,February,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.18
+2024,3,March,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.22
+2024,4,April,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.28
+2024,5,May,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,0.97
+2024,6,June,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.15
+2024,7,July,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.13
+2024,8,August,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.11
+2024,9,September,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.17
+2024,10,October,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.44
+2024,11,November,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.1
+2024,12,December,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.38
+2025,1,January,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,0.98
+2025,2,February,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.19
+2025,3,March,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.27
+2025,4,April,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.34
+2025,5,May,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.37
+2025,6,June,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.38
+2025,7,July,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.22
+2025,8,August,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.21
+2025,9,September,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.41
+2025,10,October,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.26
+2025,11,November,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.1
+2025,12,December,Emergency,Quality & Safety,Emergency_Case_Fatality_Rate_Pct,%,lower,1.0,1.13
+2023,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.0
+2023,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,97.93
+2023,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,95.74
+2023,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.72
+2023,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,92.61
+2023,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.55
+2023,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,95.9
+2023,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.79
+2023,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,97.53
+2023,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,99.51
+2023,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.81
+2023,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,95.37
+2024,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,97.04
+2024,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,99.16
+2024,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.97
+2024,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,97.23
+2024,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,99.65
+2024,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.49
+2024,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,95.11
+2024,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.45
+2024,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.36
+2024,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.42
+2024,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,97.62
+2024,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,94.65
+2025,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.14
+2025,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.56
+2025,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,99.4
+2025,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.6
+2025,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.65
+2025,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.47
+2025,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.86
+2025,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.44
+2025,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,95.3
+2025,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.69
+2025,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,96.39
+2025,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Completeness_Pct,%,higher,100.0,98.35
+2023,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,90.15
+2023,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.01
+2023,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,91.62
+2023,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,90.78
+2023,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.88
+2023,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.05
+2023,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,92.46
+2023,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,96.7
+2023,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.03
+2023,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.09
+2023,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.68
+2023,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.02
+2024,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,95.31
+2024,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.42
+2024,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.78
+2024,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,97.44
+2024,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,92.75
+2024,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,90.12
+2024,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,98.28
+2024,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,100.0
+2024,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.48
+2024,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,91.53
+2024,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,94.89
+2024,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,95.06
+2025,1,January,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,95.36
+2025,2,February,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.63
+2025,3,March,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,97.13
+2025,4,April,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,97.13
+2025,5,May,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.21
+2025,6,June,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,97.71
+2025,7,July,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,100.0
+2025,8,August,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,96.89
+2025,9,September,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,95.98
+2025,10,October,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,96.49
+2025,11,November,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,98.12
+2025,12,December,Facility-Wide,Data Quality,HMIS_Reporting_Timeliness_Pct,%,higher,100.0,93.54
+2023,1,January,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.32
+2023,2,February,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.61
+2023,3,March,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,4.6
+2023,4,April,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,4.31
+2023,5,May,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,4.78
+2023,6,June,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.39
+2023,7,July,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.76
+2023,8,August,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.41
+2023,9,September,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.44
+2023,10,October,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.71
+2023,11,November,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,8.12
+2023,12,December,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.62
+2024,1,January,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.79
+2024,2,February,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.94
+2024,3,March,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.12
+2024,4,April,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,5.67
+2024,5,May,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.41
+2024,6,June,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.27
+2024,7,July,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.52
+2024,8,August,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.97
+2024,9,September,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.4
+2024,10,October,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.78
+2024,11,November,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.27
+2024,12,December,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.48
+2025,1,January,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.08
+2025,2,February,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.36
+2025,3,March,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.25
+2025,4,April,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,6.45
+2025,5,May,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,8.8
+2025,6,June,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.08
+2025,7,July,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,7.6
+2025,8,August,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,9.77
+2025,9,September,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,10.74
+2025,10,October,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,8.48
+2025,11,November,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,8.99
+2025,12,December,Laboratory,Service Efficiency,Avg_Test_Turnaround_Time_Hours,hours,lower,4.0,9.3
+2023,1,January,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,98.23
+2023,2,February,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.47
+2023,3,March,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.17
+2023,4,April,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,97.15
+2023,5,May,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.76
+2023,6,June,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.91
+2023,7,July,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.11
+2023,8,August,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,94.83
+2023,9,September,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.92
+2023,10,October,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.85
+2023,11,November,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.3
+2023,12,December,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.47
+2024,1,January,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.46
+2024,2,February,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.96
+2024,3,March,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.06
+2024,4,April,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.21
+2024,5,May,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.87
+2024,6,June,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.77
+2024,7,July,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.01
+2024,8,August,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.0
+2024,9,September,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.55
+2024,10,October,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,97.69
+2024,11,November,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,97.13
+2024,12,December,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.9
+2025,1,January,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,94.71
+2025,2,February,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,94.32
+2025,3,March,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.58
+2025,4,April,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.61
+2025,5,May,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.78
+2025,6,June,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,93.51
+2025,7,July,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,96.14
+2025,8,August,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.63
+2025,9,September,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,94.02
+2025,10,October,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,94.61
+2025,11,November,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.31
+2025,12,December,Laboratory,Quality & Safety,Lab_QC_Pass_Rate_Pct,%,higher,98.0,95.05
+2023,1,January,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.15
+2023,2,February,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.3
+2023,3,March,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.28
+2023,4,April,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.54
+2023,5,May,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.25
+2023,6,June,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,1.29
+2023,7,July,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.51
+2023,8,August,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.77
+2023,9,September,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.88
+2023,10,October,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.6
+2023,11,November,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,1.96
+2023,12,December,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.06
+2024,1,January,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.82
+2024,2,February,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.24
+2024,3,March,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.49
+2024,4,April,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.95
+2024,5,May,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.14
+2024,6,June,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,2.7
+2024,7,July,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.11
+2024,8,August,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.98
+2024,9,September,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.68
+2024,10,October,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.31
+2024,11,November,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.08
+2024,12,December,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.77
+2025,1,January,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.47
+2025,2,February,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.88
+2025,3,March,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.13
+2025,4,April,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.62
+2025,5,May,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.85
+2025,6,June,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.53
+2025,7,July,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.42
+2025,8,August,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,3.39
+2025,9,September,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.43
+2025,10,October,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.0
+2025,11,November,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.73
+2025,12,December,Laboratory,Quality & Safety,Sample_Rejection_Rate_Pct,%,lower,2.0,4.58
+2023,1,January,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,71.43
+2023,2,February,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,67.25
+2023,3,March,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,70.51
+2023,4,April,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,69.22
+2023,5,May,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,69.86
+2023,6,June,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,71.26
+2023,7,July,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,72.59
+2023,8,August,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,70.85
+2023,9,September,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,74.31
+2023,10,October,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,69.83
+2023,11,November,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,72.73
+2023,12,December,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,78.8
+2024,1,January,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,73.95
+2024,2,February,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,76.98
+2024,3,March,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,74.4
+2024,4,April,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,75.85
+2024,5,May,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,74.82
+2024,6,June,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,74.94
+2024,7,July,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,73.97
+2024,8,August,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,77.0
+2024,9,September,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,74.56
+2024,10,October,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,78.26
+2024,11,November,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,79.56
+2024,12,December,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,78.35
+2025,1,January,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,77.28
+2025,2,February,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,79.28
+2025,3,March,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,77.98
+2025,4,April,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,81.09
+2025,5,May,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,75.37
+2025,6,June,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,79.03
+2025,7,July,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,75.76
+2025,8,August,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,77.23
+2025,9,September,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,83.89
+2025,10,October,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,83.23
+2025,11,November,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,80.05
+2025,12,December,Outpatient,Maternal & Child Health,ANC4_Coverage_Rate_Pct,%,higher,90.0,78.69
+2023,1,January,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,19.78
+2023,2,February,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,20.78
+2023,3,March,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,22.71
+2023,4,April,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,21.58
+2023,5,May,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,22.14
+2023,6,June,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,23.82
+2023,7,July,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,26.57
+2023,8,August,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,25.38
+2023,9,September,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,31.11
+2023,10,October,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,31.74
+2023,11,November,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,30.99
+2023,12,December,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,30.66
+2024,1,January,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,28.86
+2024,2,February,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,32.04
+2024,3,March,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,25.98
+2024,4,April,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,25.38
+2024,5,May,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,25.0
+2024,6,June,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,25.75
+2024,7,July,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,27.06
+2024,8,August,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,29.79
+2024,9,September,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,33.28
+2024,10,October,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,35.04
+2024,11,November,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,34.27
+2024,12,December,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,31.47
+2025,1,January,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,34.48
+2025,2,February,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,32.92
+2025,3,March,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,29.92
+2025,4,April,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,28.62
+2025,5,May,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,32.37
+2025,6,June,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,32.91
+2025,7,July,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,30.67
+2025,8,August,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,35.96
+2025,9,September,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,38.22
+2025,10,October,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,36.07
+2025,11,November,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,38.73
+2025,12,December,Outpatient,Service Efficiency,Avg_Outpatient_Waiting_Time_Min,minutes,lower,20.0,33.86
+2023,1,January,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,73.07
+2023,2,February,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,78.23
+2023,3,March,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,84.47
+2023,4,April,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,80.81
+2023,5,May,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,79.14
+2023,6,June,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,81.5
+2023,7,July,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,77.76
+2023,8,August,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,80.61
+2023,9,September,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,81.71
+2023,10,October,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,81.66
+2023,11,November,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,83.72
+2023,12,December,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,83.15
+2024,1,January,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,84.11
+2024,2,February,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,81.71
+2024,3,March,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,85.2
+2024,4,April,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,86.97
+2024,5,May,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,82.09
+2024,6,June,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,82.57
+2024,7,July,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,87.33
+2024,8,August,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,84.59
+2024,9,September,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,88.09
+2024,10,October,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,84.71
+2024,11,November,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,88.82
+2024,12,December,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,86.49
+2025,1,January,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,87.06
+2025,2,February,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,89.99
+2025,3,March,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,86.45
+2025,4,April,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,85.6
+2025,5,May,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,86.9
+2025,6,June,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,89.02
+2025,7,July,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,85.3
+2025,8,August,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,90.02
+2025,9,September,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,87.98
+2025,10,October,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,91.67
+2025,11,November,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,84.9
+2025,12,December,Outpatient,Maternal & Child Health,Full_Immunization_Coverage_Pct,%,higher,95.0,88.43
+2023,1,January,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,11141.01
+2023,2,February,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,10051.81
+2023,3,March,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,11089.74
+2023,4,April,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,10404.89
+2023,5,May,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,10683.18
+2023,6,June,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,10897.18
+2023,7,July,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,11659.86
+2023,8,August,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12722.55
+2023,9,September,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12899.98
+2023,10,October,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13379.33
+2023,11,November,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13399.43
+2023,12,December,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13627.15
+2024,1,January,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12554.32
+2024,2,February,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,11719.7
+2024,3,March,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12660.83
+2024,4,April,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12036.54
+2024,5,May,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,12933.57
+2024,6,June,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13059.66
+2024,7,July,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13403.85
+2024,8,August,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14195.52
+2024,9,September,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,15371.66
+2024,10,October,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,15674.64
+2024,11,November,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14776.36
+2024,12,December,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14613.51
+2025,1,January,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14701.45
+2025,2,February,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13512.31
+2025,3,March,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13839.03
+2025,4,April,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,13682.65
+2025,5,May,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14081.84
+2025,6,June,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14020.7
+2025,7,July,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14256.12
+2025,8,August,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,14614.3
+2025,9,September,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,15499.46
+2025,10,October,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,16042.17
+2025,11,November,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,16121.77
+2025,12,December,Outpatient,Utilization,Total_OPD_Visits,count,higher,13500.0,16921.75
+2023,1,January,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.57
+2023,2,February,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.38
+2023,3,March,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,10.74
+2023,4,April,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.67
+2023,5,May,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.97
+2023,6,June,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.41
+2023,7,July,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.91
+2023,8,August,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,10.33
+2023,9,September,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,10.27
+2023,10,October,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.01
+2023,11,November,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.21
+2023,12,December,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.04
+2024,1,January,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.91
+2024,2,February,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.24
+2024,3,March,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.27
+2024,4,April,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.64
+2024,5,May,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.6
+2024,6,June,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.47
+2024,7,July,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.05
+2024,8,August,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.98
+2024,9,September,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.69
+2024,10,October,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,15.09
+2024,11,November,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.62
+2024,12,December,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.4
+2025,1,January,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,11.28
+2025,2,February,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.8
+2025,3,March,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.96
+2025,4,April,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.62
+2025,5,May,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.15
+2025,6,June,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,13.91
+2025,7,July,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,15.53
+2025,8,August,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,12.95
+2025,9,September,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.69
+2025,10,October,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.19
+2025,11,November,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,14.49
+2025,12,December,Pharmacy,Service Efficiency,Avg_Prescription_Fill_Time_Min,minutes,lower,10.0,16.2
+2023,1,January,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,90.52
+2023,2,February,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,82.59
+2023,3,March,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,89.55
+2023,4,April,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,89.83
+2023,5,May,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,88.2
+2023,6,June,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,86.12
+2023,7,July,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,90.44
+2023,8,August,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,87.61
+2023,9,September,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,88.17
+2023,10,October,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,85.41
+2023,11,November,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,88.02
+2023,12,December,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,80.77
+2024,1,January,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,77.39
+2024,2,February,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,80.77
+2024,3,March,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,81.36
+2024,4,April,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,85.65
+2024,5,May,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,84.95
+2024,6,June,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,83.98
+2024,7,July,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,87.08
+2024,8,August,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,78.09
+2024,9,September,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,78.01
+2024,10,October,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,75.02
+2024,11,November,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,74.5
+2024,12,December,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,69.81
+2025,1,January,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,74.82
+2025,2,February,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,72.02
+2025,3,March,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,68.74
+2025,4,April,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,70.98
+2025,5,May,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,75.84
+2025,6,June,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,77.88
+2025,7,July,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,81.13
+2025,8,August,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,82.85
+2025,9,September,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,73.63
+2025,10,October,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,67.29
+2025,11,November,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,61.73
+2025,12,December,Pharmacy,Resource Availability,Essential_Medicine_Availability_Rate_Pct,%,higher,95.0,67.21
+2023,1,January,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,2.21
+2023,2,February,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,3.97
+2023,3,March,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,5.12
+2023,4,April,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,8.15
+2023,5,May,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,12.79
+2023,6,June,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,12.37
+2023,7,July,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,12.57
+2023,8,August,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,10.72
+2023,9,September,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,8.7
+2023,10,October,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,10.3
+2023,11,November,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,10.24
+2023,12,December,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,13.63
+2024,1,January,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,10.12
+2024,2,February,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,12.88
+2024,3,March,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,11.2
+2024,4,April,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,11.68
+2024,5,May,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,14.15
+2024,6,June,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,16.26
+2024,7,July,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,23.43
+2024,8,August,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,17.02
+2024,9,September,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,20.06
+2024,10,October,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,15.21
+2024,11,November,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,18.24
+2024,12,December,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,16.42
+2025,1,January,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,15.31
+2025,2,February,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,16.46
+2025,3,March,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,16.69
+2025,4,April,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,21.1
+2025,5,May,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,21.1
+2025,6,June,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,20.99
+2025,7,July,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,21.76
+2025,8,August,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,25.03
+2025,9,September,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,27.52
+2025,10,October,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,23.38
+2025,11,November,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,21.75
+2025,12,December,Pharmacy,Resource Availability,Stockout_Rate_Pct,%,lower,5.0,22.03
